@@ -1,4 +1,4 @@
-# PROJECT NAME
+# C2K
 
 ## Description
 
